@@ -22,10 +22,8 @@ returns the minimal number in the provided array of integers.
 
 ...
 
-## Compilation and Execution
-
-compile the program using a C compiler, for example:
+## Compilation
+Use a C compiler to compile the source code. For example:
+```bash
 gcc calcul.c -o calcul
-
-run the compiled program:
 ./calcul
